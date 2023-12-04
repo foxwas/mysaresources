@@ -1,0 +1,147 @@
+Citi Retail banking
+
+https://www.citigroup.com/global/businesses/us-personal-banking/retail-banking
+
+
+Courseware
+
+https://exitcertifiedtraining-my.sharepoint.com/personal/michelle_coppens_exitcertified_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmichelle%5Fcoppens%5Fexitcertified%5Fcom%2FDocuments%2FWA2325%2FSolution%E2%80%99s%20Architect%20%28SA%29%20Practitioner%E2%80%99s%20Guide%20%28WA2325%29%20%2D%20Student%20Files&ga=1
+
+Student Link:	https://exitcertified.com/get-started-imvp-info/classroom/203212	 	
+Meeting ID:	97561135624
+Meeting Password:	464703
+
+What is SA?
+
+Solution Architeccture?
+
+
+technology, holistic approach?
+
+Org --> need for system, | app | solution
+
+tech --> 
+
+like cloud console
+-- cloud services
+
+some kind of solution for a specific requirement
+
+organizing build blocks to solve a problem
+
+
+biz prob ----> solution architecture ---> tech solution
+
+
+Enterprise Architecture
+
+Solution Architecture
+
+Tech Architecture
+
+Application Architecture
+
+Data Architecture
+
+Security Architecture
+
+
+Fox Travel Reservation System	
+	-- biz 
+	-- imple
+	-- governance
+	-- app	
+	-- data
+	-- deployment
+
+
+
+Travel reservation system/app
+	-- car reservation
+	-- flight reservation
+	-- hotel reservation
+	-- cruises
+	-- bus
+	-- train
+	-- vacation packages
+
+
+
+Visualize --- flow
+	-- build blocks
+	-- flow
+	-- transactions
+	-- communications
+
+
+
+https://github.com/GoogleCloudPlatform/bank-of-anthos
+
+
+
+IVR means Interactive Voice Response that helps both the sales agent and the clients/Customers who are calling into the contact/support center.
+
+What is VoIP CRM Integration? VoIP CRM Integration is the connectivity between a VoIP phone system and Customer Relationship Management (CRM) software. Through the integration, all the information is automatically synced between the 2 tools.
+
+Voice over Internet Protocol
+Voice over Internet Protocol (VoIP), is a technology that allows you to make voice calls using a broadband Internet connection instead of a regular (or analog) phone line.
+
+Computer telephony integration (CTI) is a feature of contact center software that allows you to personalize the customer experience by providing a pop-up display featuring each customer's information as the call comes in. This saves time on both ends - for the agent as well as the customer.
+
+What does CRO mean in CRM?
+customer relationship optimization
+
+CRO stands for customer relationship optimization, and it is the alleged potential new direction for customer relationship management (CRM). "It's no longer about managing your customers," the NRF session description stated. "It's about strategically investing in customer segments that will make the most money."
+
+CSR
+- Corporate Social Responsibility
+
+What are the 3 types of CSR?
+Image result for csr in crm'
+CSR is generally categorized in four ways: environmental responsibility, ethical/human rights responsibility, philanthropic responsibility and economic responsibility.
+
+Franchise Tax Board (FTB)
+A business entity is typically suspended, or forfeited, by Franchise Tax Board (FTB) for failure to meet its tax requirements, such as; File a state tax return.
+
+Managed file transfer (MFT) is a technology platform that allows organizations to reliably exchange electronic data between systems and people in a secure way to meet compliance needs.
+
+https://www.ibm.com/topics/managed-file-transfer#:~:text=Managed%20file%20transfer%20(MFT)%20is,way%20to%20meet%20compliance%20needs.
+
+OLTP or Online Transaction Processing is a type of data processing that consists of executing a number of transactions occurring concurrently—online banking, shopping, order entry, or sending text messages, for example.
+
+Online analytical processing (OLAP) is software technology you can use to analyze business data from different points of view. Organizations collect and store data from multiple data sources, such as websites, applications, smart meters, and internal systems.
+-----------------------------------------------------------------------------------------
+https://www.advisedskills.com/about/news/145-the-four-types-of-enterprise-architecture-framework-which-is-the-best-type-for-you-2
+The Open Group Architectural Framework. The Open Group Architectural Framework, or TOGAF, is one of the most common framework structures in business today. ...
+The Zachman Framework. ...
+Federal Enterprise Architectural Framework. ...
+Gartner.
+---------------------------------------------------------------------------------------------
+
+
+Software Engineering Institute
+
+https://www.sei.cmu.edu/
+
+Software Engineering Body of Knowledge (SWEBOK)
+
+https://www.computer.org/education/bodies-of-knowledge/software-engineering
+
+
+OpenUP is a lean Unified Process that applies iterative and incremental approaches within a structured lifecycle. 
+
+https://www.utm.mx/~caff/doc/OpenUPWeb/
+
+Microsoft Library
+
+https://learn.microsoft.com/en-us/azure/architecture/
+
+https://learn.microsoft.com/en-us/azure/architecture/browse/
+
+
+AWS Architecture reference
+
+https://aws.amazon.com/architecture
+
+https://aws.amazon.com/architecture/reference-architecture-diagrams
+

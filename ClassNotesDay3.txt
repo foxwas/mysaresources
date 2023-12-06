@@ -1,0 +1,30 @@
+Review
+
+
+Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+
+https://github.com/joelparkerhenderson/architecture-decision-record
+
+7, 8, 9
+Lab 4
+10, 11, 
+Lab 5
+
+
+Biz, data architecture,
+
+
+
+TOGAF Certification
+
+https://www.opengroup.org/certifications/togaf-certification-portfolio
+
+AWS Certification
+
+https://aws.amazon.com/certification/
+
+https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf
+
+Amazon Web Services Certified (AWS Certified) Solutions Architect Associate (SAA-C03) Practice Tests Exams Questions & Answers
+
+https://github.com/Ditectrev/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Practice-Tests-Exams-Questions-Answers/blob/main/README.md

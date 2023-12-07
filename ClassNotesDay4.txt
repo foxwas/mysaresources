@@ -1,0 +1,30 @@
+Review
+
+Morning session
+
+Lab 5 Business Architecture Lab
+
+Chapter 11, 12
+
+Lab 5 Data Architecture lab
+
+Afternoon session
+
+Chapter 13, 14, 15
+
+Lab 6 Application Archietechure lab
+
+Chapter 16, 17
+
+Lab 7 Technical Architecture lab
+
+All class resources including notes, chat transcripts are available at
+
+https://github.com/foxwas/mysaresources
+
+
+Please ask your students to complete the end of class survey just before you teach the final lecture in order 
+to encourage all students to complete the survey during class.
+
+Student Survey: 
+https://www.research.net/r/CSYWM6P
